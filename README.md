@@ -122,8 +122,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
-[MIT](LICENSE)
 
 ## Acknowledgements
 - [Create React App](https://github.com/facebook/create-react-app)
@@ -131,4 +129,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [i18next](https://www.i18next.com/)
 
 ## Contact:
-Rathod Rupali | rupalirathod026@gmail.com
+Snigdha Talasila | talasilasnigdha@gmail.com
